@@ -1,0 +1,2 @@
+time ./ana.exe data/run00438sub0000* data/run00439sub000* data/run00440sub0000* data/run00470sub0000* data/run00471sub0000*
+hadd -f output/3torr_485V.root output/emma_ana_00438.root output/emma_ana_00439.root output/emma_ana_00440.root output/emma_ana_00470.root output/emma_ana_00471.root

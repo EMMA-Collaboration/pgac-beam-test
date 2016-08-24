@@ -1,0 +1,1 @@
+time ./ana.exe data/run00480sub0000*

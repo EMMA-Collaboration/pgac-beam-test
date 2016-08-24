@@ -1,0 +1,2 @@
+time ./ana.exe data/run00444sub0000* data/run00445sub000* data/run00446sub0000* data/run00447sub0000* data/run00474sub0000* data/run00475sub0000* data/run00476sub0000*
+hadd -f output/4torr_510V.root output/emma_ana_00444.root output/emma_ana_00445.root output/emma_ana_00446.root output/emma_ana_00447.root output/emma_ana_00474.root output/emma_ana_00475.root output/emma_ana_00476.root
