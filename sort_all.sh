@@ -1,0 +1,1 @@
+time ./ana.exe data/run00397sub00000.mid.gz data/run004*
